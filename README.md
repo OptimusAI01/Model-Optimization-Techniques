@@ -68,7 +68,7 @@ This project systematically compares the performance of different optimization s
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/BinarySkull/CIFAR-10-Model-Techniques.git
+    git clone https://github.com/OptimusAI01/Model-Optimization-Techniques.git
     cd CIFAR-10-Model-Techniques
     ```
 
